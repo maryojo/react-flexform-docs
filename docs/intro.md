@@ -8,23 +8,21 @@ Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Get started by **creating a new react application**.
 
 ### What you'll need
 
 - [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
+## Create a new React application
 
 Generate a new Docusaurus site using the **classic template**.
 
 The classic template will automatically be added to your project after you run the command:
 
 ```bash
-npm init docusaurus@latest my-website classic
+npx create-react-app my-app
 ```
 
 You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
@@ -36,7 +34,7 @@ The command also installs all necessary dependencies you need to run Docusaurus.
 Run the development server:
 
 ```bash
-cd my-website
+cd my-app
 npm run start
 ```
 

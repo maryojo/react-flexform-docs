@@ -1,8 +1,9 @@
 ---
-sidebar_position: 1
+sidebar_label: 'Add Form Validation'
+sidebar_position: 3
 ---
 
-# Create a Page
+# Add Form Validation
 
 Add **Markdown or React** files to `src/pages` to create a **standalone page**:
 

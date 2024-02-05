@@ -1,12 +1,13 @@
 ---
-sidebar_position: 3
+sidebar_label: Generate a Form
+sidebar_position: 1
 ---
 
-# Create a Blog Post
+# Generate a Form
 
 Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
 
-## Create your first Post
+## Create your first Form
 
 Create a file at `blog/2021-02-28-greetings.md`:
 
